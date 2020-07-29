@@ -11,3 +11,7 @@
 	- 'git diff --staged': diff files in the stagged area
 - 'HEAD': where you are currently looking (i.e., what the files on your computer are)
 
+## Remotes
+
+- 'git remote add <URL>": etc etc etc
+	
